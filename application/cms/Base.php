@@ -1,7 +1,7 @@
 <?php
 namespace app\cms;
 use think\Request; 
-
+use tp\theme\Theme;
 class Base extends Theme
 {
      
