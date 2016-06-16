@@ -1,0 +1,494 @@
+[ 2016-06-16T12:22:00+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] my/ [运行时间：0.044606s] [吞吐率：22.42req/s] [内存消耗：1,567.39kb] [文件加载：33]
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/convention.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/config.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/database.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/route.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ notice ] 主题文件不存在/Library/WebServer/Documents/www/app/wstaichi.com/public/themes/default/index/index/index/html
+
+[ 2016-06-16T12:22:25+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] my/ [运行时间：0.062450s] [吞吐率：16.01req/s] [内存消耗：1,567.37kb] [文件加载：33]
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/convention.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/config.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/database.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/route.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ notice ] 主题文件不存在/Library/WebServer/Documents/www/app/wstaichi.com/public/themes/default/index/index/index.html
+
+[ 2016-06-16T12:22:45+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] my/ [运行时间：0.044844s] [吞吐率：22.30req/s] [内存消耗：1,567.28kb] [文件加载：33]
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/convention.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/config.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/database.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/route.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/index/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ notice ] 主题文件不存在/Library/WebServer/Documents/www/app/wstaichi.com/public/themes/default/index/index/index.html
+
+[ 2016-06-16T12:23:20+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] my/ [运行时间：0.048038s] [吞吐率：20.82req/s] [内存消耗：1,684.79kb] [文件加载：35]
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/convention.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/config.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/database.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/route.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [0]template file not exists:/Library/WebServer/Documents/www/app/wstaichi.com/public/themes/default/index/index.html[/Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/library/think/view/driver/Think.php:76]
+
+[ 2016-06-16T12:23:45+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] my/ [运行时间：0.054422s] [吞吐率：18.37req/s] [内存消耗：1,684.89kb] [文件加载：35]
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/convention.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/config.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/database.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/route.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [0]template file not exists:/Library/WebServer/Documents/www/app/wstaichi.com/public/themes/default/index/index.html[/Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/library/think/view/driver/Think.php:76]
+
+[ 2016-06-16T12:24:12+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] my/ [运行时间：0.032243s] [吞吐率：31.01req/s] [内存消耗：1,518.73kb] [文件加载：31]
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/convention.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/config.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/database.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/route.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+
+[ 2016-06-16T12:24:17+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] my/ [运行时间：0.011415s] [吞吐率：87.60req/s] [内存消耗：1,518.73kb] [文件加载：31]
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/convention.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/config.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/database.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/route.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+
+[ 2016-06-16T12:24:18+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] my/ [运行时间：0.014655s] [吞吐率：68.24req/s] [内存消耗：1,518.73kb] [文件加载：31]
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/convention.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/config.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/database.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/route.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+
+[ 2016-06-16T12:24:22+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] my/ [运行时间：0.010973s] [吞吐率：91.13req/s] [内存消耗：1,518.73kb] [文件加载：31]
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/convention.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/config.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/database.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/route.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+
+[ 2016-06-16T12:24:23+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] my/ [运行时间：0.010130s] [吞吐率：98.72req/s] [内存消耗：1,518.73kb] [文件加载：31]
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/convention.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/config.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/database.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/route.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+
+[ 2016-06-16T12:24:31+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] my/ [运行时间：0.013429s] [吞吐率：74.46req/s] [内存消耗：1,518.88kb] [文件加载：31]
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/convention.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/config.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/database.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/route.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+
+[ 2016-06-16T12:24:49+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] my/ [运行时间：0.038354s] [吞吐率：26.07req/s] [内存消耗：1,685.04kb] [文件加载：35]
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/convention.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/config.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/database.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/route.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [0]template file not exists:/Library/WebServer/Documents/www/app/wstaichi.com/public/themes/default/index/index.html[/Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/library/think/view/driver/Think.php:76]
+
+[ 2016-06-16T12:25:12+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] my/ [运行时间：0.045313s] [吞吐率：22.07req/s] [内存消耗：1,685.04kb] [文件加载：35]
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/convention.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/config.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/database.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/route.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [0]template file not exists:/Library/WebServer/Documents/www/app/wstaichi.com/public/themes/default/index/index.html[/Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/library/think/view/driver/Think.php:76]
+
+[ 2016-06-16T12:27:06+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] my/ [运行时间：0.061827s] [吞吐率：16.17req/s] [内存消耗：1,787.52kb] [文件加载：35]
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/convention.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/config.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/database.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/route.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/default/index/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+
+[ 2016-06-16T12:27:11+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] my/ [运行时间：0.049384s] [吞吐率：20.25req/s] [内存消耗：1,692.84kb] [文件加载：35]
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/convention.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/config.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/database.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/route.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/default/index/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [0]template not exist:/Library/WebServer/Documents/www/app/wstaichi.com/public/themes/default/base.html[/Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/library/think/Template.php:1071]
+
+[ 2016-06-16T12:27:37+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] my/ [运行时间：0.056532s] [吞吐率：17.69req/s] [内存消耗：1,795.20kb] [文件加载：35]
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/convention.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/config.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/database.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/route.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/default/index/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+
+[ 2016-06-16T12:27:53+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] my/ [运行时间：0.030157s] [吞吐率：33.16req/s] [内存消耗：1,794.34kb] [文件加载：35]
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/convention.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/config.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/database.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/route.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/default/index/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+
+[ 2016-06-16T12:28:02+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] my/ [运行时间：0.022370s] [吞吐率：44.70req/s] [内存消耗：1,794.48kb] [文件加载：35]
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/convention.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/config.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/database.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/route.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/default/index/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+
+[ 2016-06-16T12:28:03+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] my/ [运行时间：0.011530s] [吞吐率：86.73req/s] [内存消耗：1,562.11kb] [文件加载：33]
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/convention.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/config.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/database.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/route.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/default/index/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+
+[ 2016-06-16T12:28:22+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] my/ [运行时间：0.043399s] [吞吐率：23.04req/s] [内存消耗：1,562.11kb] [文件加载：33]
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/convention.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/config.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/database.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/route.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/default/index/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+
+[ 2016-06-16T12:28:23+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] my/ [运行时间：0.014424s] [吞吐率：69.33req/s] [内存消耗：1,562.11kb] [文件加载：33]
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/convention.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/config.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/database.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/app/wstaichi.com/public/../application/route.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/default/index/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+
+[ 2016-06-16T12:34:59+08:00 ] 127.0.0.1 127.0.0.1 GET /github/thinkphp5_theme/public/
+[ log ] www/github/thinkphp5_theme/public/ [运行时间：0.101246s] [吞吐率：9.88req/s] [内存消耗：1,795.05kb] [文件加载：35]
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/github/thinkphp5_theme/thinkphp/convention.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/github/thinkphp5_theme/public/../application/config.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/github/thinkphp5_theme/public/../application/database.php
+[ info ] [ CONFIG ] /Library/WebServer/Documents/www/github/thinkphp5_theme/public/../application/route.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/github/thinkphp5_theme/application/index/controller/Index.php[ array (
+) ]
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/github/thinkphp5_theme/public/themes/default/index/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/github/thinkphp5_theme/public/../runtime/log/',
+)
+
